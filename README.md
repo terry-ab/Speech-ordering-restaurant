@@ -1,5 +1,5 @@
 # Speech ordering restaurant
- Restaurant that takes orders directly from customer to chef using speech recognition
+ Restaurant app that takes orders directly from customer to chef using speech recognition
 
 [https://github.com/terry-ab/Speech-ordering-restaurant/blob/main/Restaurant%20ai.mp4](https://github.com/terry-ab/Speech-ordering-restaurant/assets/62323183/79210202-258e-44a6-8d4b-c34681a19b42)
 
