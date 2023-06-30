@@ -1,7 +1,7 @@
 # Speech ordering restaurant
  Restaurant that takes orders directly from customer to chef using speech recognition
 
-<video src="Restaurant%20ai.mp4" controls title="Title"></video>
+[https://github.com/terry-ab/Speech-ordering-restaurant/blob/main/Restaurant%20ai.mp4](https://github.com/terry-ab/Speech-ordering-restaurant/assets/62323183/79210202-258e-44a6-8d4b-c34681a19b42)
 
 
 ## Introduction
@@ -11,11 +11,13 @@ Have you ever wished for a more convenient and seamless way to place your restau
 Imagine walking into a restaurant, finding a comfortable seat at your table, and noticing a microphone and a menu card right in front of you. All you have to do is speak your order on the menu card, and like magic, it gets sent directly to the kitchen with all the necessary details. No need to wait in queues or rush your orders. It's as simple as having a conversation with your personal chef!
 
 ## Technology Behind the Scenes
-To make this seamless dining experience a reality, we leverage the power of cutting-edge technologies: OpenAI's Whisper ASR (Automatic Speech Recognition) model and the OpenAI GPT-3.5 Turbo model.
+To make this seamless dining experience a reality, we leverage the power of cutting-edge technologies: OpenAI's Whisper ASR (Automatic Speech Recognition) model, OpenAI GPT-3.5 Turbo model and the Streamlit framework.
 
 Whisper ASR is responsible for transforming your spoken words into written text. With its high accuracy and efficient speech recognition capabilities, it ensures that your order is transcribed correctly, eliminating any misunderstandings.
 
 The GPT-3.5 Turbo model, on the other hand, takes the transcribed text, extracts the food items, and generates a comprehensive order summary. It understands natural language and can handle a wide range of requests, ensuring accurate identification of food items and their quantities. We all know how Chatgpt is overpowered/ overwhelming in this modern world.
+
+Streamlit is the framework we used to create the user interface for the speech ordering system. It allows us to build interactive web applications with ease, providing a smooth and user-friendly experience. With Streamlit, we created a web-based interface where customers can simply speak their order, and the system takes care of the rest.
 
 ## Benefits of Speech Ordering
 Convenience: Say goodbye to waiting in long queues or struggling to read small text on menus. Just speak your order, sit back, and relax. The restaurant staff will take care of the rest.
