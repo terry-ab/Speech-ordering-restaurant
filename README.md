@@ -1,7 +1,7 @@
 # Speech ordering restaurant
  Restaurant that takes orders directly from customer to chef using speech recognition
 
-<video src="Restaurant%20ai.mp4" controls title="Title"></video>
+[<video src="Restaurant%20ai.mp4" controls title="Title"></video>](https://github.com/terry-ab/Speech-ordering-restaurant/blob/main/Restaurant%20ai.mp4)
 
 
 ## Introduction
